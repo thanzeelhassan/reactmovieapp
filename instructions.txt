@@ -1,0 +1,2 @@
+npm run start -> run locally
+npm run build -> create a production build
